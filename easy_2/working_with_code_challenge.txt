@@ -1,0 +1,11 @@
+How to work with a code challenge
+
+- don't underestimate; resist the urge to dive into code
+- read the description 3 times; produce an outline if necessary
+- communicate with clarity
+  - ask questions upfront
+- have a plan (algorithm), and verify
+- test cases (happy paths, fail paths, edge cases)
+- manage your energy
+  - leave time for tricky parts
+- abstraction
